@@ -43,7 +43,7 @@ public class Main {
                 break;
 
                 default:
-                    System.out.println("Por favor, insira o número de uma das opções acima.");
+                    System.out.println("Por favor, insira o número apenas de uma das opções acima.");
                 break;
             }
         }while( op != 4);
